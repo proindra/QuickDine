@@ -11,4 +11,30 @@ A web-based restaurant table reservation system built with **Python**, **Streaml
 ---
 
 ## 📁 Project Structure
+---
+title: "Restaurant Booking System"
+description: "A Streamlit-based restaurant reservation system using Python and CSV"
+author: "Prajwal"
+tags: [python, streamlit, csv, project, restaurant booking]
+---
+
+# 🍽️ Restaurant Booking System
+
+A responsive, user-friendly restaurant reservation system built with **Python** and **Streamlit**. Users can view restaurants, check availability, make table reservations, and manage bookings. All data is stored using simple **CSV files** — no database required!
+
+---
+
+## 📦 Features
+
+- 🔐 **User Login** (via CSV)
+- 🏪 **Search & Filter Restaurants**
+- 📅 **Date, Time, and Party Size Booking**
+- ✅ **Check Availability & Confirm Reservation**
+- 📖 **View & Cancel Bookings**
+- 💾 **Persistent Storage with CSV**
+
+---
+
+## 📁 Project Structure
+
 
