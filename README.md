@@ -56,13 +56,6 @@ A responsive, user-friendly restaurant reservation system built with **Python** 
 - Python 3.8+
 - pip
 
-### 📦 Install dependencies
-
-```bash
-pip install streamlit
-
----
-
 ### 🚀 Run the App
 
 Make sure you've installed the dependencies:
@@ -75,6 +68,11 @@ streamlit run app.py
 
 
 ---
+### 📦 Install dependencies
+
+```bash
+pip install streamlit
+
 
 📑 CSV File Formats
 
