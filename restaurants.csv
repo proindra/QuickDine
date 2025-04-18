@@ -1,0 +1,4 @@
+restaurant_id,name,cuisine_type,rating,location,total_tables,table_configuration,opening_hours,closing_hours
+R001,The Gourmet Spot,Italian,4.5,Rome,20,"{""2-seater"": 8, ""4-seater"": 10, ""6-seater"": 2}",10:00,22:00
+R002,South Indian,Indian,4.2,Bangaluru,15,"{""2-seater"": 5, ""4-seater"": 8, ""6-seater"": 2}",11:00,23:00
+R003,Sushi Haven,Japanese,4.8,Osaka,12,"{""2-seater"": 6, ""4-seater"": 4, ""6-seater"": 2}",12:00,21:00
