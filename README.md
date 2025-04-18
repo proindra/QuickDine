@@ -61,4 +61,45 @@ A responsive, user-friendly restaurant reservation system built with **Python** 
 ```bash
 pip install streamlit
 
+---
 
+### 🚀 Run the App
+
+Make sure you've installed the dependencies:
+
+pip install streamlit
+
+Then run the app using:
+
+streamlit run app.py
+
+
+---
+
+📑 CSV File Formats
+
+🧍 users.csv
+
+user_id,name,email,phone_number,current_bookings
+U1,John Doe,john@example.com,1234567890,"[]"
+
+🍴 restaurants.csv
+
+restaurant_id,name,cuisine_type,rating,location,total_tables,table_configuration,opening_hours,closing_hours
+R1,The Gourmet Spot,Italian,4.6,New York,10,"{'2-Seat': 4, '4-Seat': 4}",10:00,22:00
+
+📅 bookings.csv
+
+booking_id,user_id,restaurant_id,table_id,date,time,party_size
+B-1683560189.12,U1,R1,4-Seat-1,2025-04-20,19:30,4
+
+
+---
+
+📄 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, distribute, and build upon it for personal or commercial use.
+
+
+---
