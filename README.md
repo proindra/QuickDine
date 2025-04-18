@@ -77,19 +77,6 @@ You are free to use, modify, distribute, and build upon it for personal or comme
 
 ---
 
-### Key Changes:
-1. **Fixed the Installation Section:** 
-   - Added code blocks around the install and run commands for better readability.
-2. **Improved CSV File Format Descriptions:** 
-   - The CSV examples now appear in proper code blocks for better structure.
-3. **Corrected the Heading Format:** 
-   - In the "Installation & Run" section, I ensured the headings were more consistent.
-4. **Minor Consistency Improvements:** 
-   - Tidied up some formatting and made sure sections like "Tech Stack" and "License" were clearly separated.
-
-Feel free to modify further based on your project's specific needs.
-
-
 ## 💻 Installation & Run
 
 ### 📌 Requirements
