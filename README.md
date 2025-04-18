@@ -49,7 +49,7 @@ A responsive, user-friendly restaurant reservation system built with **Python** 
 
 ---
 
-##📑 CSV File Formats
+📑 CSV File Formats
 
 🧍 users.csv
 
