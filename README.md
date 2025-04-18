@@ -37,4 +37,28 @@ A responsive, user-friendly restaurant reservation system built with **Python** 
 
 ## 📁 Project Structure
 
+---
+
+## 🛠️ Tech Stack
+
+| Tool       | Use Case                    |
+|------------|-----------------------------|
+| Python     | Core programming language   |
+| Streamlit  | Web interface & UI engine   |
+| CSV        | Data persistence (lightweight database alternative) |
+
+---
+
+## 💻 Installation & Run
+
+### 📌 Requirements
+
+- Python 3.8+
+- pip
+
+### 📦 Install dependencies
+
+```bash
+pip install streamlit
+
 
