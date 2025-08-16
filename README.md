@@ -161,6 +161,35 @@ else:
     st.warning("Please log in to book a table.")
 ```
 
+### 📁 `core.py`
+
+```python
+class Restaurant:
+    def __init__(self, data):
+        self.id = data["restaurant_id"]
+        self.name = data["name"]
+        self.total_tables = data["total_tables"]
+        # Load other fields as needed
+
+    def get_available_tables(self, date, time, party_size):
+        # Logic to filter available tables
+        pass
+
+class User:
+    def __init__(self, data):
+        self.id = data["user_id"]
+        self.name = data["name"]
+        self.email = data["email"]
+
+    def make_reservation(self, restaurant_id, date, time, table_id, party_size):
+        # Logic to add a reservation
+        pass
+
+    def cancel_reservation(self, booking_id):
+        # Logic to cancel a reservation
+        pass
+```
+
 ---
 
 ## 📄 License
@@ -175,5 +204,5 @@ Thanks to the open-source community and [Streamlit](https://streamlit.io) for en
 
 ---
 
-Made with ❤️ by PRAJWALINDRA
+Made with ❤️ by Prajwal
 
