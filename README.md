@@ -17,6 +17,7 @@ A web-based restaurant reservation app built with **Python**, **Streamlit**, and
 
 ## 🖼️ Preview
 
+🆔 Sample Login ID for Preview USE : 001
 Live App 👉 [Try it on Streamlit Cloud 🚀](https://proindrarestaurantsbookingsystem.streamlit.app/#restaurant-booking-system)
 
 ---
