@@ -204,5 +204,5 @@ Thanks to the open-source community and [Streamlit](https://streamlit.io) for en
 
 ---
 
-Made with ❤️ by Prajwal
+Made with ❤️ by PRAJWALINDRA
 
