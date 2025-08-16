@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Booking System
+# 🍽️ TableTime – Restaurant Booking App
 
 A web-based restaurant reservation app built with **Python**, **Streamlit**, and **CSV** files. Users can **log in**, browse restaurants, check **table availability**, make **bookings**, and manage reservations — all via a sleek, responsive interface.
 
@@ -6,18 +6,18 @@ A web-based restaurant reservation app built with **Python**, **Streamlit**, and
 
 ## 🌟 Features
 
-- 🔐 **User Login & Session Management**
-- 🍴 **Search Restaurants by Name**
-- 📅 **Book Tables Based on Date, Time & Party Size**
-- ✅ **Real-Time Availability Check**
-- 🔁 **View & Cancel Existing Bookings**
-- 💾 **CSV-based Persistent Storage** (No external database needed!)
+* 🔐 **User Login & Session Management**
+* 🍴 **Search Restaurants by Name**
+* 📅 **Book Tables Based on Date, Time & Party Size**
+* ✅ **Real-Time Availability Check**
+* 🔁 **View & Cancel Existing Bookings**
+* 💾 **CSV-based Persistent Storage** (No external database needed!)
 
 ---
 
 ## 🖼️ Preview
 
-Coming soon to [Streamlit Cloud](https://streamlit.io/cloud) 🚀
+Live App 👉 [Try it on Streamlit Cloud 🚀](https://proindrarestaurantsbookingsystem.streamlit.app/#restaurant-booking-system)
 
 ---
 
@@ -73,8 +73,8 @@ B-1683560189.12,U1,R1,4-Seat-1,2025-04-20,19:30,4
 
 ### ✅ Requirements
 
-- Python 3.8+
-- pip
+* Python 3.8+
+* pip
 
 ### 🔧 Installation
 
@@ -205,4 +205,3 @@ Thanks to the open-source community and [Streamlit](https://streamlit.io) for en
 ---
 
 Made with ❤️ by PRAJWALINDRA
-
